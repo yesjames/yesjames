@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm James Thakur</h1>
-<h3 align="center">Currently A First Year College Student</h3>
+<h3 align="center">Currently A First Year College Student, Passionate About Computers and Coding</h3>
 
-- 🔭 I’m currently working on **Lazarev Clone**
+- 🔭 I’m currently working on **Lazarev Clone Website**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **AIML, AR/VR**
 
 - 💬 Ask me about **HTML, CSS, JS, Python And MySQL**
 
 - 📫 How to reach me **unincognitodev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: unincognitodev@gmail.com</h3>
 <p align="left">
 </p>
 
