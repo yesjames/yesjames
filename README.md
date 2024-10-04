@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PDFP Website**
 
-- 🌱 I’m currently learning **AIML, AR/VR**
+- 🌱 I’m currently learning **AIML, Cybersecurity, Data science**
 
 - 💬 Ask me about **HTML, CSS, JS, Python And MySQL**
 
