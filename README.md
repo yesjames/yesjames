@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Thakur</h1>
 <h3 align="center">Currently A First Year College Student, Passionate About Computers and Coding</h3>
 
-- 🔭 I’m currently working on **PDFP Website**
+- 🔭 I’m currently working on **www.padmafoods.com**
 
 - 🌱 I’m currently learning **AIML, Cybersecurity, Data science**
 
